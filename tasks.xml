@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<catalog>
+	<SchedulerTask 
+		id="1"
+		Name="Print	Command" 
+		Type="Command" 
+		Details="echo task 1" 
+		Time="18:30"    
+		BasedOn=""/>
+	<SchedulerTask 
+		id="2"
+		Name="Print	Command" 
+		Type="Command" 
+		Details="echo task 2" 
+		Time="10:00"    
+		BasedOn="1"/>
+	<SchedulerTask 
+		id="3" 
+		Name="Run Script" 
+		Type="Script" 
+		Details="c:\example.bat" 
+		BasedOn="2"/> 
+	<SchedulerTask 
+		id="4"
+		Name="Print	Command" 
+		Type="Command" 
+		Details="echo task 4" 
+		Time="10:30"    		
+		BasedOn="3"/>
+	<SchedulerTask 
+		id="5"
+		Name="Print	Command" 
+		Type="Command" 
+		Details="echo task 5" 
+		Time="19:00"    
+		BasedOn="2"/>	
+	<SchedulerTask 
+		id="6"
+		Name="Print	Command" 
+		Type="Command" 
+		Details="echo task 6" 
+		Time="19:30"    
+		BasedOn=""/>
+	<SchedulerTask 
+		id="7"
+		Name="Print	Command" 
+		Type="Command" 
+		Details="echo task 7"  
+		BasedOn="6"/>
+	<SchedulerTask 
+		id="8"
+		Name="Print	Command" 
+		Type="Command" 
+		Details="echo task 8"  
+		BasedOn="1"/>
+</catalog>

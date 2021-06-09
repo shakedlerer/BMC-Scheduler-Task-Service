@@ -1,0 +1,9 @@
+C:\Users\shake\Drive\Projects\BmcSchedulerTaskService\BmcSchedulerTaskService\bin\Debug\BmcSchedulerTaskService.exe.config
+C:\Users\shake\Drive\Projects\BmcSchedulerTaskService\BmcSchedulerTaskService\bin\Debug\BmcSchedulerTaskService.exe
+C:\Users\shake\Drive\Projects\BmcSchedulerTaskService\BmcSchedulerTaskService\bin\Debug\BmcSchedulerTaskService.pdb
+C:\Users\shake\Drive\Projects\BmcSchedulerTaskService\BmcSchedulerTaskService\obj\Debug\BmcSchedulerTaskService.exe
+C:\Users\shake\Drive\Projects\BmcSchedulerTaskService\BmcSchedulerTaskService\obj\Debug\BmcSchedulerTaskService.pdb
+C:\Users\shake\Drive\Projects\BmcSchedulerTaskService\BmcSchedulerTaskService\obj\Debug\BmcSchedulerTaskService.csprojResolveAssemblyReference.cache
+C:\Users\shakedle\Google Drive\Projects\BmcSchedulerTaskService\BmcSchedulerTaskService\bin\Debug\BmcSchedulerTaskService.exe.config
+C:\Users\shakedle\Google Drive\Projects\BmcSchedulerTaskService\BmcSchedulerTaskService\obj\Debug\BmcSchedulerTaskService.exe
+C:\Users\shakedle\Google Drive\Projects\BmcSchedulerTaskService\BmcSchedulerTaskService\obj\Debug\BmcSchedulerTaskService.pdb
