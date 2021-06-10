@@ -2,7 +2,6 @@
 BMC Home Assignment - Scheduler Task Service
 
 Mini Scheduler
-
 In the following exercise you are asked to write SchedulerTaskService which read tasks from file and run them according to their details and prerequisites.
 A SchedulerTask contains the following data:
 a.	*ID: [unique number]
@@ -31,3 +30,4 @@ d.	Please write message to console/log when task is waiting, running or finished
 For example: “Task 1 started”, “Task 4 is waiting for Task 3 to be done”…
 
 Good luck!!
+
